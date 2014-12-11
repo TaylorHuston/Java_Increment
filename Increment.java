@@ -1,5 +1,6 @@
 /*
- * Simple program to demonstrate the difference between pre and post increment/decrement operators
+ * Simple program to demonstrate the difference between pre and post 
+ * increment/decrement operators
  * From "Java How To Program, 10/e, Early Objects" - Chapter 4
  */
 
@@ -16,6 +17,6 @@ public class Increment {
         System.out.printf("Num before preincrement: %d%n", num);
         System.out.printf("Preincrementing num: %d%n", ++num);
         System.out.printf("Num after preincrement: %d%n", num);
-    }
+    } //End main
     
-}
+} //End Increment
